@@ -13,7 +13,7 @@ print('Selamat datang', nama, '!')
 # Validasi input jumlah perangkat
 while True:
     try:
-        jumlah_perangkat = int(input("Masukkan jumlah perangkat listrik di rumah Anda: "))
+        jumlah_perangkat = int(input("Masukkan jumlah perangkat listrik di rumah Anda: (contoh: 5) "))
         if jumlah_perangkat < 0:
             print("Jumlah perangkat tidak boleh negatif.")
             continue
