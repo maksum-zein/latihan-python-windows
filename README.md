@@ -7,4 +7,4 @@
 #### 5. [Chapter 3](https://github.com/maksum-zein/latihan-python-windows/blob/main/Chapter3.py)
 #### 6. [Chapter 4](https://github.com/maksum-zein/latihan-python-windows/blob/main/Chapter4.py)
 #### 7. [Chapter 5](https://github.com/maksum-zein/latihan-python-windows/blob/main/Chapter_5)
-#### 8. [Chapter 5](https://github.com/maksum-zein/latihan-python-windows/blob/main/Chapter_6)
+#### 8. [Chapter 6](https://github.com/maksum-zein/latihan-python-windows/blob/main/Chapter_6)
